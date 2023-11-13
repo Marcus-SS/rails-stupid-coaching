@@ -13,3 +13,19 @@
  *= require_tree .
  *= require_self
  */
+.alert.alert-light{
+  border-left: 10px solid gray;
+  margin: 20px;
+}
+.alert.alert-warning{
+  border-left: 10px solid gray;
+  margin: 20px;
+}
+
+.container{
+  margin: 50px;
+
+}
+.search{
+  padding-bottom: 8px;
+}
